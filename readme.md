@@ -51,6 +51,5 @@ You can do that here: https://twitter.com/petex47 </p>
     <p>&copy; Pete Quinones IV 2024</p>
   </footer>
 
-  <script src="script.js"></script>
 </body>
 </html>
