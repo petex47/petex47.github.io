@@ -8,7 +8,7 @@
 <body>
   <header>
     <h1> Pete Quinones IV </h1>
-    <p>Your tagline or short bio</p>
+    <p>Hi! I’m Pete Quinones IV, and a IT Technician.</p>
     <nav>
       <ul>
         <li><a href="#about">About Me</a></li>
