@@ -41,7 +41,7 @@ Pete!</p>
     <section id="contact">
       <h2>Contact Me</h2>
 <p>
-If you need anything reach out to me and kindly DM me on X/Twitter.
+If you need anything reach out to me and DM me on X/Twitter.
 
 You can do that here: https://twitter.com/petex47 </p>
     </section>
