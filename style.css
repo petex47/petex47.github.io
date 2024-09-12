@@ -1,6 +1,6 @@
 /* Background color */
 body {
-    background-color: #1a1a1a; /* Dark background */
+    background-color: #121212; /* Dark background */
 }
 
 /* Main Heading (h1) */
@@ -22,7 +22,7 @@ p, li {
 
 /* Links */
 a {
-    color: #1e90ff; /* Blue links */
+    color: #4B25E4; /* Blue links */
     text-decoration: none; /* No underline */
 }
 
