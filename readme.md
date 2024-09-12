@@ -6,7 +6,6 @@
 </head>
 <body>
   <header>
-    <h1> Pete Quinones IV </h1>
     <p>Hi! I’m Pete Quinones IV, and I am an aspiring IT Technician/entry-level help desk technician .</p>
     <nav>
       <ul>
