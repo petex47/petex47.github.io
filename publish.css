@@ -1,0 +1,45 @@
+/* Background color */
+body {
+    background-color: #1a1a1a; /* Dark background */
+}
+
+/* Main Heading (h1) */
+h1 {
+    color: #ffffff; /* White text for main headings */
+    font-weight: bold;
+}
+
+/* Sub-Headings (h2, h3) */
+h2, h3 {
+    color: #ffcc00; /* Yellow for subheadings */
+    font-weight: bold;
+}
+
+/* Normal Text (paragraphs, lists) */
+p, li {
+    color: #ffffff; /* White for standard text */
+}
+
+/* Links */
+a {
+    color: #1e90ff; /* Blue links */
+    text-decoration: none; /* No underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Inline Code */
+code {
+    background-color: #333333; /* Dark grey background for code */
+    color: #ffcc00; /* Yellow for inline code */
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+/* Emphasis (bold text) */
+strong {
+    color: #ffcc00; /* Yellow for emphasized text */
+    font-weight: bold;
+}
