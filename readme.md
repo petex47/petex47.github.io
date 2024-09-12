@@ -12,7 +12,7 @@
         <li><a href="#about">About Me</a></li>
         <li><a href="#work">My Work</a></li>
         <li><a href="#contact">Contact Me</a></li>
-        <li><a href="https://petex47.com/Home">My personal site</a></li>
+        <li><a href="https://petex47.com/Home">My Personal Site</a></li>
       </ul>
     </nav>
   </header>
