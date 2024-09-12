@@ -44,7 +44,7 @@ If you need anything, contact me and DM me on X/Twitter.
 
 You can do that here: https://twitter.com/petex47
  <li><a href="https://www.linkedin.com/in/petequinonesiv/">LinkedIn</a></li>
-  <li><a href="mailto:petexsa@gmail.com">Email Me Here</a></li>
+  <li><a href="mailto:petexsa@gmail.com">Email Me</a></li>
  </p>
     </section>
   </main>
