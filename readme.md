@@ -42,7 +42,7 @@ Pete!</p>
 <p>
 If you need anything, contact me and DM me on X/Twitter.
 
-You can do that here: https://twitter.com/petex47
+You can do that here: <li><a href="https://twitter.com/petex47">X (Twitter)</a></li>
  <li><a href="https://www.linkedin.com/in/petequinonesiv/">LinkedIn</a></li>
     <li><a href="mailto:petexsa@gmail.com">
   Contact Me
