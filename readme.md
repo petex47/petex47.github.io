@@ -43,8 +43,8 @@ Pete!</p>
 If you need anything, contact me and DM me on X/Twitter.
 
 You can do that here: https://twitter.com/petex47
-
-petexsa@gmail.com
+ <li><a href="https://www.linkedin.com/in/petequinonesiv/">LinkedIn</a></li>
+  <li><a href="petexsa@gmail.com">Email Me Here</a></li>
  </p>
     </section>
   </main>
