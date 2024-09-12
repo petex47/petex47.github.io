@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -8,7 +8,7 @@
 <body>
   <header>
     <h1> Pete Quinones IV </h1>
-    <p>Hi! I’m Pete Quinones IV, and a IT Technician.</p>
+    <p>Hi! I’m Pete Quinones IV, and I am an aspiring IT Technician/entry-level help desk technician .</p>
     <nav>
       <ul>
         <li><a href="#about">About Me</a></li>
@@ -41,9 +41,12 @@ Pete!</p>
     <section id="contact">
       <h2>Contact Me</h2>
 <p>
-If you need anything reach out to me and DM me on X/Twitter.
+If you need anything, contact me and DM me on X/Twitter.
 
-You can do that here: https://twitter.com/petex47 </p>
+You can do that here: https://twitter.com/petex47
+
+petexsa@gmail.com
+ </p>
     </section>
   </main>
 
