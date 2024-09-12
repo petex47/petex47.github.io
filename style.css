@@ -11,7 +11,7 @@ h1 {
 
 /* Sub-Headings (h2, h3) */
 h2, h3 {
-    color: #ffcc00; /* Yellow for subheadings */
+    color: #ffae00; /* Yellow for subheadings */
     font-weight: bold;
 }
 
@@ -40,6 +40,6 @@ code {
 
 /* Emphasis (bold text) */
 strong {
-    color: #ffcc00; /* Yellow for emphasized text */
+    color: #ffae00; /* Yellow for emphasized text */
     font-weight: bold;
 }
