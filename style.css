@@ -17,6 +17,11 @@
 	--titlebar-background: var(--color-base-00);
 	--titlebar-background-focused: var(--color-base-10);
 }
+/* styles.css */
+body {
+  background-color: #000000; /* Black background */
+  color: #ffffff; /* White text for contrast */
+}
 
 
 /*
